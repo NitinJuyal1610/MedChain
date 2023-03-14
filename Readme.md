@@ -38,11 +38,11 @@
 ## `Introduction`
 Managing Patient documents across different Hospital is quite hassling.  Medchain is a revolutionary platform that offers a secure and transparent solution for the healthcare industry. With Medchain, patients can access their medical records easily and safely, while healthcare providers can securely store and share patient data with other providers. Our blockchain technology ensures the highest level of security, privacy, and transparency
 
-## Local Implementation
+## `Local Implementation`
 1. 
 
 
-## Technologies Used
+## `Technologies Used`
 - [Ethereum Blockchain](https://ethereum.org/en/developers/docs/)
 - [Solidity](https://docs.soliditylang.org/en/v0.8.19/)
 - [Web3 JS](https://docs.web3js.org/)
@@ -50,7 +50,7 @@ Managing Patient documents across different Hospital is quite hassling.  Medchai
 - [Metamask Wallet](https://docs.metamask.io/guide/)
 - [React](https://reactjs.org/docs/getting-started.html)
 
-## Features
+## `Features`
 - Medchain provides a decentralized database for all patient reports, which can be easily accessed by hospitals and healthcare providers.
 - The platform uses blockchain and IPFS to store medical records, ensuring that they are tamper-proof and secure.
 - Medical records stored on Medchain do not require additional proof of authenticity, as they are verified by the blockchain technology.
@@ -59,7 +59,7 @@ Managing Patient documents across different Hospital is quite hassling.  Medchai
 - The platform's use of blockchain technology allows for the creation of a comprehensive and accurate medical history for each patient.
 
 
-## Screenshots and Video
+## `Screenshots and Video`
 Home page
 ![](./img/Homepage.png)
 Register page
@@ -72,7 +72,7 @@ Uploading Document
 ![](./img/upDoc.png)
 
 
-## Builders:
+## `Builders:`
 
 
 ### Team lead [Vaibhav Gupta ](https://www.linkedin.com/in/uxvaibhav/) 
