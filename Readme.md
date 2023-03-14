@@ -26,9 +26,9 @@
 - [Table of contents🧭 ](#-table-of-contents)
 - [Introduction🚀](#Introduction)
 - [Local Implementation](#Local-Implementation)
-- [Technologies Used📫](#Technologies Used)
+- [Technologies Used📫](#Technologies-Used)
 - [Features](#Features)
-- [`<NFTBalances />`](#nftbalances)
+- [MedChain in Action](#Screenshots-and-Video)
 - [Made By`](#Builders)
 
 
