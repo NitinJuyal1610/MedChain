@@ -43,12 +43,12 @@ Managing Patient documents across different Hospital is quite hassling.  Medchai
 
 
 ## Technologies Used
-- Ethereum Blockchain
-- Solidity
-- Web3 JS
-- IPFS
-- Metamask Wallet
-- React JS
+- [Ethereum Blockchain](https://ethereum.org/en/developers/docs/)
+- [Solidity](https://docs.soliditylang.org/en/v0.8.19/)
+- [Web3 JS](https://docs.web3js.org/)
+- [IPFS](https://docs.web3js.org/)
+- [Metamask Wallet](https://docs.metamask.io/guide/)
+- [React](https://reactjs.org/docs/getting-started.html)
 
 ## Features
 - Medchain provides a decentralized database for all patient reports, which can be easily accessed by hospitals and healthcare providers.
