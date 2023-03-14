@@ -72,12 +72,12 @@ Uploading Document
 
 ## Builders:
 
-Team Name : ETHERNALS
 
+* [ Team Lead : Vaibhav Gupta](https://github.com/dynomin)
 * [Tushar Goyal](https://github.com/tgoyal63)
 * [Nitin Juyal](https://github.com/NitinJuyal1610)
 * [Vaibhav Bhardwaj](https://github.com/vaibhavx42)
 * [Yash Mistry](https://github.com/yash240408)
-* [Vaibhav Gupta](https://github.com/dynomin)
+
 
 # ⭐️ `Star us`
