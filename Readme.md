@@ -73,10 +73,10 @@ Uploading Document
 ## Builders:
 
 
-* [ Team Lead : Vaibhav Gupta](https://github.com/dynomin)
+### Team lead [Vaibhav Gupta ](https://www.linkedin.com/in/uxvaibhav/) 
 * [Tushar Goyal](https://github.com/tgoyal63)
 * [Nitin Juyal](https://github.com/NitinJuyal1610)
-* [Vaibhav Bhardwaj](https://github.com/vaibhavx42)
+* [Vaibhav Bhardwaj](https://vxibhxv.ml)
 * [Yash Mistry](https://github.com/yash240408)
 
 
