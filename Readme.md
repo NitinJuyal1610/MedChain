@@ -25,9 +25,11 @@
 - [MedChain](#-MedChain)
 - [Table of contents🧭 ](#-table-of-contents)
 - [Introduction🚀](#Introduction)
-- [Local Implementation](#Local Implementation)
+- [Local Implementation](#Local-Implementation)
 - [Technologies Used📫](#Technologies Used)
-- [`<NFTBalances />`](#nftbalances-)
+- [Features](#Features)
+- [`<NFTBalances />`](#nftbalances)
+- [Made By`](#Builders)
 
 
 
@@ -81,3 +83,4 @@ Uploading Document
 
 
 # ⭐️ `Star us`
+- **If you like our project and want to support us, please consider starring our repository as a token of appreciation. Thank you!**
