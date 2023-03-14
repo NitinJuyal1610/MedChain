@@ -2,12 +2,13 @@
 
 # MedChain
 
+
 ### Revolutionizing the Healthcare Industry with MedChain's Innovative Blockchain Solutions
  
 
 
 <p align="center">
-<img  width="300" height="300" src="https://user-images.githubusercontent.com/110530263/225097880-a0e4d39a-061e-4e80-9d23-98483f5f28c9.png">
+<img  width="400" height="400" src="https://user-images.githubusercontent.com/110530263/225097880-a0e4d39a-061e-4e80-9d23-98483f5f28c9.png">
 </p>
 
   
@@ -16,7 +17,10 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://github.com/yash240408/HackHound)
   
   
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=QUARTZO+&pause=1000&color=F72288&width=435&lines=Build+for+ETH+DUBAI++By+Team+Ethernals)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=QUARTZO+&pause=1000&color=F72288&width=435&lines=Build+for+ETH+DUBAI++By+Team+Ethernals)](https://git.io/typing-svg)
+ 
+ <img  width="100" height="120" align="center" src="https://user-images.githubusercontent.com/110530263/225117486-588eb822-df15-44c5-aa77-d6a955fa9002.png">
+ 
 </div>
 
 
