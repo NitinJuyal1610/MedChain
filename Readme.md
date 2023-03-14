@@ -25,7 +25,7 @@
 - [MedChain](#-MedChain)
 - [Table of contents🧭 ](#-table-of-contents)
 - [Introduction🚀](#Introduction)
-- [Local Implementation](#Local Implementation)
+- [Local Implementation](#-Local Implementation)
 - [Technologies Used📫](#Technologies Used)
 - [Features](#Features)
 - [MedChain in Action](#Screenshots-and-Video)
