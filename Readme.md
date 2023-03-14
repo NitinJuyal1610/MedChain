@@ -19,7 +19,6 @@
   
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=QUARTZO+&pause=1000&color=F72288&width=435&lines=Build+for+ETH+DUBAI++By+Team+Ethernals)](https://git.io/typing-svg)
  
- <img  width="100" height="120" align="center" src="https://user-images.githubusercontent.com/110530263/225117486-588eb822-df15-44c5-aa77-d6a955fa9002.png">
  
 </div>
 
@@ -40,7 +39,15 @@
 
 
 ## `Introduction`
-Managing Patient documents across different Hospital is quite hassling.  Medchain is a revolutionary platform that offers a secure and transparent solution for the healthcare industry. With Medchain, patients can access their medical records easily and safely, while healthcare providers can securely store and share patient data with other providers. Our blockchain technology ensures the highest level of security, privacy, and transparency
+<!--- <div align="center">
+<img  width="100" height="120" align="center" src="https://user-images.githubusercontent.com/110530263/225117486-588eb822-df15-44c5-aa77-d6a955fa9002.png">
+ </div> --->
+ 
+- Managing Patient documents across different Hospital is quite hassling isn't it? 
+
+- Medchain is a revolutionary platform that offers a secure and transparent solution for the healthcare industry. With Medchain, patients can access their medical records easily and safely, while healthcare providers can securely store and share patient data with other providers. Our blockchain technology ensures the highest level of security, privacy, and transparency
+
+
 
 ## `Local Implementation`
 1. 
