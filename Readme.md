@@ -50,7 +50,26 @@
 
 
 ## `Local Implementation`
-1. 
+- Intital step is to 
+
+<br>
+
+‣ Clone the Repo and install dependencies
+ ```
+https://github.com/NitinJuyal1610/MedChain.git
+ ```
+ ```
+cd Hospital-Records-Blockchain/frontend/
+ ```
+ ```
+npm install
+ ```
+-  Create a [Infura](https://infura.io/) account and create a new project. Now copy the Project ID from settings Tab and paste it in the marked location
+-  Install metamask in your browser and log into your metasmask account.
+-  Run the local webserver with any port.
+```
+npm start
+```
 
 
 ## `Technologies Used`
