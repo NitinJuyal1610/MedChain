@@ -104,7 +104,7 @@ Uploading Document
 - Take a look at the Existing [Issues](https://github.com/NitinJuyal1610/MedChain/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you.
 - Fork the repository
->click on the uppermost button <img src="" width=50>
+>click on the uppermost button <img src="https://raw.githubusercontent.com/NitinJuyal1610/MedChain/main/.github/images/fork.png" width=50>
 - Clone your forked copy of the project.
 ```
 git clone --depth 1 https://github.com/<your_user_name>/MedChain.git
