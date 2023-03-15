@@ -99,7 +99,7 @@ Uploading Document
 
 
 
-## 💥 How to Contribute to Med-Chain?
+## 💥 `How to Contribute to Med-Chain?`
 
 - Take a look at the Existing [Issues](https://github.com/NitinJuyal1610/MedChain/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you.
@@ -111,7 +111,7 @@ git clone --depth 1 https://github.com/<your_user_name>/MedChain.git
 
 ```
 
-## `Builders:`
+## `Builders`
 
 
 ### Team lead [Vaibhav Gupta ](https://www.linkedin.com/in/uxvaibhav/) 
