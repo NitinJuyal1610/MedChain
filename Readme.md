@@ -50,11 +50,7 @@
 
 
 ## `Local Implementation`
-- Intital step is to 
-
-<br>
-
-‣ Clone the Repo and install dependencies
+- Intital step is to   Clone the Repo and install dependencies
  ```
 https://github.com/NitinJuyal1610/MedChain.git
  ```
@@ -101,6 +97,19 @@ Patient Page
 Uploading Document
 ![](./img/upDoc.png)
 
+
+
+## 💥 How to Contribute to Med-Chain?
+
+- Take a look at the Existing [Issues](https://github.com/NitinJuyal1610/MedChain/issues) or create your own Issues!
+- Wait for the Issue to be assigned to you.
+- Fork the repository
+>click on the uppermost button <img src="" width=50>
+- Clone your forked copy of the project.
+```
+git clone --depth 1 https://github.com/<your_user_name>/MedChain.git
+
+```
 
 ## `Builders:`
 
