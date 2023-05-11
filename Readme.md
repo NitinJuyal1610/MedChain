@@ -17,7 +17,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://github.com/yash240408/HackHound)
   
   
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=QUARTZO+&pause=1000&color=F72288&width=435&lines=Build+for+ETH+DUBAI++By+Team+Ethernals)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=QUARTZO+&pause=1000&color=F72288&width=435&lines=Build+for+ETH+DUBAI++By+Team+Eth-Ernals)](https://git.io/typing-svg)
  
  
 </div>
